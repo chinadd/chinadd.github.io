@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Full Stack Development
 
-[Project 1 Title](/sample_page)
+[Around: a Geo-index based social network](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Small World in Social Network](/pdf/Presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Weaver: Mini event-brite for NEU SV campus](https://github.com/chinadd/Weaver)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data Science
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
