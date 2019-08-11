@@ -4,12 +4,12 @@
 
 ### Full Stack Development
 
-[Around: a Geo-index based social network](/sample_page)
+[Around: a Geo-index based social network](https://github.com/chinadd/around)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Small World in Social Network](/pdf/Presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/socialnetwork.jpg?raw=true"/>
 
 ---
 [Weaver: Mini event-brite for NEU SV campus](https://github.com/chinadd/Weaver)
