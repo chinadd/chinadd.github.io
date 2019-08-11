@@ -2,11 +2,17 @@
 
 ---
 
-### Full Stack Development
+### Cloud Computing
 
 [Around: a Geo-index based social network](https://github.com/chinadd/around)
 <img src="images/lbsn.jpg?raw=true"/>
 
+---
+
+### Full Stack Development
+
+[Ticket Plus: location-based ticket search and recommendation](https://github.com/chinadd/ticket_plus)
+<img src="images/ticket.png?raw=true"/>
 ---
 
 [Weaver: Mini event-brite for NEU SV campus](https://github.com/chinadd/Weaver)
