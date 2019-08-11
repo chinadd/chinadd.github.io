@@ -7,6 +7,9 @@
 [Around: a Geo-index based social network](https://github.com/chinadd/around)
 <img src="images/lbsn.jpg?raw=true"/>
 
+[spring-cloud-nike-running](https://github.com/chinadd/spring-cloud-nike-running)
+<img src="images/run.png?raw=true"/>
+
 ---
 
 ### Full Stack Development
@@ -20,7 +23,7 @@
 
 ---
 
-### Data Engineer / Data Science
+### Big Data
 
 - [Small World in Social Network](/pdf/Presentation.pdf)
   <img src="images/socialnetwork.jpg?raw=true"/>
