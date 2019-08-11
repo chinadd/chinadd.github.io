@@ -8,18 +8,16 @@
 <img src="images/lbsn.jpg?raw=true"/>
 
 ---
-[Small World in Social Network](/pdf/Presentation.pdf)
-<img src="images/socialnetwork.jpg?raw=true"/>
 
----
 [Weaver: Mini event-brite for NEU SV campus](https://github.com/chinadd/Weaver)
 <img src="images/Weaver.png?raw=true"/>
 
 ---
 
-### Data Science
+### Data Engineer / Data Science
 
-- [Project 1 Title](http://example.com/)
+- [Small World in Social Network](/pdf/Presentation.pdf)
+  <img src="images/socialnetwork.jpg?raw=true"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
