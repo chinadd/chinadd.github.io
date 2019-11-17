@@ -4,6 +4,9 @@
 
 ### Cloud Computing
 
+[Cloud-native HPC](https://github.com/BU-NU-CLOUD-F19/Cloud-Native_high-performance_computing)
+<img src="images/HPC.png?raw=true"/>
+
 [Around: a Geo-index based social network](https://github.com/chinadd/around)
 <img src="images/lbsn.jpg?raw=true"/>
 
@@ -29,9 +32,6 @@
   <img src="images/socialnetwork.jpg?raw=true"/>
 
 ---
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
