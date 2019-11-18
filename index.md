@@ -2,37 +2,21 @@
 
 ---
 
-### Cloud Computing
+### Academic Project 
 
 [Cloud-native HPC](https://github.com/BU-NU-CLOUD-F19/Cloud-Native_high-performance_computing)
 <img src="images/HPC.png?raw=true"/>
 
-[Around: a Geo-index based social network](https://github.com/chinadd/around)
-<img src="images/lbsn.jpg?raw=true"/>
+---
 
-[spring-cloud-nike-running](https://github.com/chinadd/spring-cloud-nike-running)
-<img src="images/run.png?raw=true"/>
+### Work Experience
+
+[Kuebix  - 7 Months](/kuebix)
+
+
+[Salesforce Commerce Cloud Einstein  - 3 months](/sfcce)
 
 ---
 
-### Full Stack Development
-
-[Ticket Plus: location-based ticket search and recommendation](https://github.com/chinadd/ticket_plus)
-<img src="images/ticket.png?raw=true"/>
----
-
-[Weaver: Mini event-brite for NEU SV campus](https://github.com/chinadd/Weaver)
-<img src="images/Weaver.png?raw=true"/>
-
----
-
-### Big Data
-
-- [Small World in Social Network](/pdf/Presentation.pdf)
-  <img src="images/socialnetwork.jpg?raw=true"/>
-
----
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
