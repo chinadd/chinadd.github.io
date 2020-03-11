@@ -16,6 +16,8 @@
 
 [Salesforce Commerce Cloud Einstein  - 3 months](/sfcce)
 
+
+[Salesforce Sales Cloud Einstein  -  months](/sfsce)
 ---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
