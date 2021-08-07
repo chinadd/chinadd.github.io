@@ -22,7 +22,7 @@
  2. Monitor security vulnerabilities and have patching SLA compliance stays consistently above 99% every quarter. Developed a customized patching script to perform topology-based server rotation to deal with the accumulation of backlog brought by topology downtime during patching. 
 
  - Availability and Reliability
- Participate in oncall shifts to handle service disruptions in production environments aiming to deliver and maintain 99.95% availability for all services, including disk alert, auto-scaling group capacity (CPU, Memory, etc) adjustment, failure of new instance to join/sync with the cluster or start nomad process, problem in target group registration for load balancer,  
+ Participate in oncall shifts to handle service disruptions in production environments aiming to deliver and maintain 99.95% availability for all services, including disk alert, auto-scaling group capacity (CPU, Memory, etc) adjustment, failure of new instance to join/sync with the cluster or start nomad process, problem in target group registration for load balancer, etc.
 
 ### Technologies
  - Nomad
